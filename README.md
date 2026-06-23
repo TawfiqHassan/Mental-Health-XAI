@@ -1,3 +1,4 @@
+https://huggingface.co/spaces/tawfiqhassan/mental-health-xai-demo
 # Explainable Multi-Class Mental Health Detection from Social Media Text
 
 Detects seven mental health conditions — **Normal, Depression, Suicidal,
